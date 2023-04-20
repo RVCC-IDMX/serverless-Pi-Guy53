@@ -1,0 +1,26 @@
+{
+  "name": "serverless-pi-guy53",
+  "version": "1.0.0",
+  "description": "Learn how to use serverless functions in less than 30 minutes!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RVCC-IDMX/serverless-Pi-Guy53.git"
+  },
+  "keywords": [],
+  "author": "Mihail Vaporakis <g00277963@stu.raritanval.edu> (https://github.com/Pi-Guy53)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RVCC-IDMX/serverless-Pi-Guy53/issues"
+  },
+  "homepage": "https://github.com/RVCC-IDMX/serverless-Pi-Guy53#readme",
+  "devDependencies": {
+    "@eslint/create-config": "github:eslint/create-config",
+    "eslint": "^8.38.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.27.5"
+  }
+}
